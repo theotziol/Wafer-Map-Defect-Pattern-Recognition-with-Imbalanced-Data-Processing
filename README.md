@@ -2,6 +2,7 @@
 
 An implementation of wafer map defect pattern recognition. 
 More information can be found in this paper https://ieeexplore.ieee.org/abstract/document/9904402
+
 Dataset WM-811K https://www.kaggle.com/datasets/qingyi/wm811k-wafer-map
 
 
